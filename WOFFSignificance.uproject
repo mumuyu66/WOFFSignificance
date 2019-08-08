@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CFD839BE-46A6-6AD1-0814-98BBE88BFF57}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WOFFSignificance",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
